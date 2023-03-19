@@ -9,17 +9,20 @@ This is a news api integrated application build with react
 [![forthebadge](https://img.shields.io/badge/USES-JavaScript-green)](http://forthebadge.com)
 [![forthebadge](https://img.shields.io/badge/USES-Bootstrap-blue)](http://forthebadge.com)
 
-## Back End Langage
-
-[![forthebadge](https://img.shields.io/badge/USES-NodeJs-red)](http://forthebadge.com)
-
 ## Prerequisites
 * **React**
-* **NodeJs**
 * **HTML**
 * **CSS**
 * **JavaScript**
 * **Bootstrap**
+
+
+## Screenshots
+
+![App Screenshot](https://drive.google.com/file/d/1SfIPtLtu__8FOIikIFa-Q4xlBD3Mq86s/view?usp=share_link)
+
+![App Screenshot](https://drive.google.com/file/d/1VVO_Yzru9E-HClQpBPLHKq0LFlolC4N1/view?usp=share_link)
+
 
 ## Installations:
 
