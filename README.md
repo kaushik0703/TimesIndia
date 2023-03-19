@@ -32,7 +32,6 @@ This is a news api integrated application build with react
 ```
 * Create a .env.local file in your folder and type VITE_APP_NEWS_API='YOUR API KEY' generated from newsapi.org
 * And now you are ready to execute this project.
-```
 ```jsx
 VITE_APP_NEWS_API='36ba8621e6384c8ba1f9ef540ba63d4e'
 ```
