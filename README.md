@@ -1,5 +1,5 @@
 # TimesIndia
-This is a news api integrated application build with react
+This is a news api integrated application build with react, where you can get daily dose of news for free so that you can stay updated
 
 ## Front End Languages
 
@@ -19,8 +19,8 @@ This is a news api integrated application build with react
 
 ## Screenshots
 
-![Screen Shot 1](/repository/timesindia2.png?raw=true "Image 1")
-![Screen Shot 2](/repository/timesindia3.png?raw=true "Image 2")
+![Screen Shot 1](/timesindia2.png?raw=true "Image 1")
+![Screen Shot 2](/timesindia3.png?raw=true "Image 2")
 
 
 ## Installations:
