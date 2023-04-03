@@ -19,8 +19,8 @@ This is a news api integrated application build with react, where you can get da
 
 ## Screenshots
 
-![Screen Shot 1](/timesindia2.png?raw=true "Image 1")
-![Screen Shot 2](/timesindia3.png?raw=true "Image 2")
+![Screen Shot 1](https://lh3.googleusercontent.com/dULlZdUIL3sOuWpVYmkoYDXGkiWc3XttF4Ty-0IEbRIjfDSHugqvi_WAUddOjuOesVxgSpytwTz-I7aWnAaNaRhifs-y0Klv8tzX644AgQ?raw=true "Image 1")
+![Screen Shot 2](https://lh3.googleusercontent.com/MwytQUh13004gR7N23iw0AKSZmh8oOndAbhlk-ilclqo-KfOthSjBMbQHaXaAx5zJHxTNYXW7mXvt4NYbmIrz6-rjuqeGu-JaPdFwvU?raw=true "Image 2")
 
 
 ## Installations:
